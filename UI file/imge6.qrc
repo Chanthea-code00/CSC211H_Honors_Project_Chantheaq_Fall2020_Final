@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/img6">
+        <file>background.jpg</file>
+        <file>question.png</file>
+    </qresource>
+    <qresource prefix="/img7">
+        <file>question.png</file>
+    </qresource>
+</RCC>

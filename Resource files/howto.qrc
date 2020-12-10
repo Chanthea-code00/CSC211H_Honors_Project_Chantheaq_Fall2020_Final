@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/file1">
+        <file>howtoplay.rtf</file>
+    </qresource>
+</RCC>

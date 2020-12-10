@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img8">
+        <file>detective.png</file>
+        <file>instrcutions.png</file>
+    </qresource>
+</RCC>

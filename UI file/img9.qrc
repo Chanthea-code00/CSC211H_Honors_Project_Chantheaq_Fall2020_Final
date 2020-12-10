@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img9">
+        <file>construction.png</file>
+        <file>fingerprint.jpeg</file>
+    </qresource>
+</RCC>

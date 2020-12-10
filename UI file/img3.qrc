@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/img3">
+        <file>Header-background-600x400.png</file>
+    </qresource>
+</RCC>

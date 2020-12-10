@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>howtoplay</class>
+ <widget class="QDialog" name="howtoplay">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>868</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>How to Play</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>90</y>
+     <width>751</width>
+     <height>251</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>In this CTF you are are a detective tasked with helping our victim Rory James. Rory recently experienced a 
+breach in his student account but can't figure out how this happened. He has made a log of all his recent 
+online activities in order to give us a timeline of his life before the breach.
+
+Rules
+-Players must answer all questions given using the provided evidence
+-Players must answer typed questions in the format that follows: CTF{YOUR ANSWER}
+-Points can see in the top right corner.
+
+Good luck Detective!!</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>20</y>
+     <width>111</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Instructions</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>290</x>
+     <y>350</y>
+     <width>251</width>
+     <height>191</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap resource="img8.qrc">:/img8/instrcutions.png</pixmap>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="img8.qrc"/>
+ </resources>
+ <connections/>
+</ui>
